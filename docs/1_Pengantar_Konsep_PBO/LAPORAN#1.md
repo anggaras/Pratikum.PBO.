@@ -46,8 +46,16 @@ Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pe
     Abstraksi — Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti. 
     
 2. Apa yang dimaksud dengan object dan apa bedanya dengan class? <br>
+   Jawab :<br>
+   Objek adalah hasil dari suatu rancangan/class yang dapat di compire<br>
+   class adalah suatu rancangan untuk menghasilkan sebuah objek yang tidak dapat di compire
+   
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
 dengan pemrograman struktural! <br>
+   Jawab :<br>
+  Meningkatkan produktivitas<br>
+  Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya yang menggunakan objek         tersebut (reusable).
+
 4. Pada class Sepeda, terdapat state/atribut apa saja? <br>
 5. Tambahkan atribut warna pada class Sepeda. <br>
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari

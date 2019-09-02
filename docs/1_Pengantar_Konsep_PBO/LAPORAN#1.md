@@ -2,7 +2,7 @@
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+(Jobseet 1 Pratikum PBO)
 
 ## Ringkasan Materi
 
@@ -16,9 +16,11 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+***[screenshot Sepeda.Java !!!]*** (img/contoh-schot1.PNG)
+***[screenshot SepedaDemo.Java !!!]*** (img/contoh-schot1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+***(Contoh link kode program :)*** ***[ini contoh link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
+***(Contoh link kode program :)*** ***[ini contoh link ke SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 
 ### Percobaan 2
 
@@ -26,9 +28,9 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+***[screenshot SepedaDemo.Java !!!]*** (img/contoh-schot1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+***(Contoh link kode program :)*** ***[ini contoh link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 

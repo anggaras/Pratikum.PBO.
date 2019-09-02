@@ -16,8 +16,8 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-[screenshot Sepeda.Java !!!](img/contoh-schot1.PNG)<br>
-[screenshot SepedaDemo.Java !!!](img/contoh-schot1.PNG)
+[screenshot Sepeda.Java !!!](img/Sepeda)<br>
+[screenshot SepedaDemo.Java !!!](img/SepedaDemo)
 
 Contoh link kode program : [ini contoh link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
 Contoh link kode program : [ini contoh link ke SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
@@ -28,7 +28,8 @@ Contoh link kode program : [ini contoh link ke SepedaDemo.java](../../src/1_Peng
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-[screenshot SepedaDemo.Java !!!](img/contoh-schot1.PNG)
+[screenshot SepedaDemo.Java !!!](img/SepedaDemo2.png)
+[screenshot SepedaDemo.Java !!!](img/SepedaGunung.png)
 
 Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 

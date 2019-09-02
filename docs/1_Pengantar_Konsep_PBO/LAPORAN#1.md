@@ -15,8 +15,9 @@
 (berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
+Screenshot Sepeda.java
 ![screenshot Sepeda.Java](img/Sepeda.png)<br>
+Screenshot Sepeda.Java
 ![screenshot SepedaDemo.Java](img/SepedaDemo.png)
 
 Contoh link kode program : [ini contoh link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>

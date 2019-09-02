@@ -37,7 +37,14 @@ Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pe
 
 ## Pertanyaan
 
-(silakan ketik pertanyaan di sini beserta jawabannya.)
+(1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! <br>
+2. Apa yang dimaksud dengan object dan apa bedanya dengan class? <br>
+3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
+dengan pemrograman struktural! <br>
+4. Pada class Sepeda, terdapat state/atribut apa saja? <br>
+5. Tambahkan atribut warna pada class Sepeda. <br>
+6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
+nol?)
 
 ## Tugas
 
@@ -59,7 +66,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Kesimpulan
 
-()
+(Kesimpulan dari pratikum di atas adalah : class adalah sebuah rancang untuk memanggil sebuah main class yang telah di buat karena tanpa adanya class/sebuah rancangan maka mainclass/objek rancangan tidak bisa di panggil atau di jalankan,dengan menambahkan extand class kita dapat membuat sebuah hasil rancangan/objek menjadi lebih detail atau lebih sempurna hasilnya karena dengan extand class hasil dari objek yang di buat oleh class dapat lebih terperinci)
 
 ## Pernyataan Diri
 

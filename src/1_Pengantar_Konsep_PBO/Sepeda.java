@@ -8,7 +8,7 @@
  *
  * @author Angga Rahmat Adriyadhi
  */
-<font color="#ff0000"> public class Sepeda</font> 
+public class Sepeda 
 {
     private String merek;
     private int kecepatan;

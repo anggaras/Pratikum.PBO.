@@ -16,11 +16,11 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-***[screenshot Sepeda.Java !!!](img/contoh-schot1.PNG)<br>
-***[screenshot SepedaDemo.Java !!!](img/contoh-schot1.PNG)
+[screenshot Sepeda.Java !!!](img/contoh-schot1.PNG)<br>
+[screenshot SepedaDemo.Java !!!](img/contoh-schot1.PNG)
 
-***(Contoh link kode program :) ***[ini contoh link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
-***(Contoh link kode program :) ***[ini contoh link ke SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
+Contoh link kode program : [ini contoh link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
+Contoh link kode program : [ini contoh link ke SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 
 ### Percobaan 2
 
@@ -28,9 +28,9 @@
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-***[screenshot SepedaDemo.Java !!!](img/contoh-schot1.PNG)
+[screenshot SepedaDemo.Java !!!](img/contoh-schot1.PNG)
 
-***(Contoh link kode program :) ***[ini contoh link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
+Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
@@ -44,11 +44,13 @@
 
 ![contoh screenshot](img/contoh-schot1.PNG)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Kucing.java)<br>
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingBerjalan.java)<br>
+Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingLari.java)
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+()
 
 ## Pernyataan Diri
 
@@ -58,4 +60,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(silakan isi nama lengkap di sini)***
+***(Angga Rahmat Adriyadhi)***

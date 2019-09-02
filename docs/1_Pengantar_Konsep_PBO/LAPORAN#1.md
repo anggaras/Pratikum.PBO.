@@ -14,10 +14,10 @@
 
 (berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+
 Screenshot Sepeda.java
 ![screenshot Sepeda.Java](img/Sepeda.png)<br>
-Screenshot Sepeda.Java
+Screenshot Sepeda.java
 ![screenshot SepedaDemo.Java](img/SepedaDemo.png)
 
 Contoh link kode program : [ini contoh link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
@@ -27,10 +27,10 @@ Contoh link kode program : [ini contoh link ke SepedaDemo.java](../../src/1_Peng
 
 (berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-Screenshot SepedaDemo Setelah Di tambah Extand Source Code Sepeda Gunung
+
+Screenshot SepedaDemo.java Setelah Di tambah Extand Source Code SepedaGunung.java
 ![screenshot SepedaDemo.Java !!!](img/SepedaDemo2.png)<br>
-Screenshot SepedaGunung
+Screenshot SepedaGunung.java
 ![screenshot SepedaGunung.Java !!!](img/SepedaGunung.png)
 
 Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
@@ -43,9 +43,15 @@ Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pe
 
 (silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/contoh-schot1.PNG)
+Screenshot Kucing.java
+![screenshot Kucing.java](img/Kucing.png)<br>
+Screenshot KucingBerjalan.java
+![contoh screenshot](img/KucingBerjalan.png)<br>
+Screenshot KucingBerjalan.java Setelah Di tambah Extand Source Code KucingLari.java
+![contoh screenshot](img/KucingBerjalan2.png)<br>
+Screenshot KucingLari.java
+![contoh screenshot](img/KucingLari.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Kucing.java)<br>
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingBerjalan.java)<br>

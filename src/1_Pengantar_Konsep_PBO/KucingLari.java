@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Agata
+ * @author Angga Rahmat Adriyadhi
  */
 public class KucingLari extends Kucing
 {

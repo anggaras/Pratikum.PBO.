@@ -51,15 +51,23 @@ Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pe
    class adalah suatu rancangan untuk menghasilkan sebuah objek yang tidak dapat di compire
    
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
-dengan pemrograman struktural! <br>
+   dengan pemrograman struktural! <br>
    Jawab :<br>
-  Meningkatkan produktivitas<br>
-  Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya yang menggunakan objek         tersebut (reusable).
+  —Meningkatkan produktivitas<br>
+   Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya yang menggunakan objek          tersebut (reusable).
 
 4. Pada class Sepeda, terdapat state/atribut apa saja? <br>
+   Jawab :<br>
+   class,objek,attribute,atribute private,overloading methods
+   
 5. Tambahkan atribut warna pada class Sepeda. <br>
+   Jawab :<br>
+   <font color="ff0000"> class sepeda</font>
+    
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
-nol?)
+nol?<br>
+   Jawab:<br>
+   karena class SepedaGunung adalah extandsi attribute yang di pakai sebagai penambahan source code pada SepedaDemo untuk menambahkan      hasil yang lebih mendetail.)
 
 ## Tugas
 

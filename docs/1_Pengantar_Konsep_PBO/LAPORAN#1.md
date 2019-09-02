@@ -6,13 +6,15 @@
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+(class adalah sebuah proyek yang tidak dapat di compire<br>
+  main class adalah objek atau hasil jadi class yang dapat di compire dan terima hasilnya<br>
+  tanpa adanya mainclass,class tidak dapat berjalan/tidak dapat di compire)
 
 ## Percobaan
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+(Dengan adanya class,main class sebaik Primery Key dapat di panggil untuk mengcompire hasil yang lebih baik dari pada hanya tertuju pada class saja tanpa adanya main class. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
 
 Screenshot Sepeda.java
@@ -25,7 +27,7 @@ Contoh link kode program : [ini contoh link ke SepedaDemo.java](../../src/1_Peng
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+(Dengan adanya extand class pada main class,hasil yang di compire deri sebuah class dapat lebih jelas dan hasilnya lebih mendetail. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
 
 Screenshot SepedaDemo.java Setelah Di tambah Extand Source Code SepedaGunung.java
@@ -38,6 +40,11 @@ Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pe
 ## Pertanyaan
 
 (1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! <br>
+    Jawab :<br>
+    Kelas     — kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu.<br>
+    Objek     — membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari                         modularitas dan struktur dalam sebuah program komputer berorientasi objek.<br>
+    Abstraksi — Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti. 
+    
 2. Apa yang dimaksud dengan object dan apa bedanya dengan class? <br>
 3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
 dengan pemrograman struktural! <br>

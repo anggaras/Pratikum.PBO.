@@ -28,9 +28,10 @@ Contoh link kode program : [ini contoh link ke SepedaDemo.java](../../src/1_Peng
 (berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-[screenshot SepedaDemo.Java !!!](img/SepedaDemo2.png)
-[screenshot SepedaDemo.Java !!!](img/SepedaGunung.png)
+Screenshot SepedaDemo Setelah Di tambah Extand Source Code Sepeda Gunung
+![screenshot SepedaDemo.Java !!!](img/SepedaDemo2.png)<br>
+Screenshot SepedaGunung
+![screenshot SepedaGunung.Java !!!](img/SepedaGunung.png)
 
 Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 

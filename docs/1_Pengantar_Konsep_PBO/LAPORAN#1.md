@@ -62,7 +62,7 @@ Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pe
    
 5. Tambahkan atribut warna pada class Sepeda. <br>
    Jawab :<br>
-   git config --global color.ui true
+   
     
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
 nol?<br>
@@ -70,9 +70,6 @@ nol?<br>
    karena class SepedaGunung adalah extandsi attribute yang di pakai sebagai penambahan source code pada SepedaDemo untuk menambahkan      hasil yang lebih mendetail.)
 
 ## Tugas
-
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
 
 Screenshot Kucing.java
 ![screenshot Kucing.java](img/Kucing.png)<br>

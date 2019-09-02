@@ -62,7 +62,8 @@ Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pe
    
 5. Tambahkan atribut warna pada class Sepeda. <br>
    Jawab :<br>
-   <font color="ff0000"> class sepeda</font>
+   <font color="merah"> class Sepeda</font>
+   <font color="ff0000"> class Sepeda</font>
     
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
 nol?<br>

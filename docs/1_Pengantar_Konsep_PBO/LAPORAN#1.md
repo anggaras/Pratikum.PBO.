@@ -2,13 +2,15 @@
 
 ## Kompetensi
 
-(Jobseet 1 Pratikum PBO)
+Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
+1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
+2. Konsep dasar PBO
 
 ## Ringkasan Materi
 
-(class adalah sebuah proyek yang tidak dapat di compire<br>
-  main class adalah objek atau hasil jadi class yang dapat di compire dan terima hasilnya<br>
-  tanpa adanya mainclass,class tidak dapat berjalan/tidak dapat di compire)
+class adalah sebuah proyek yang tidak dapat di compire. 
+
+main class adalah objek atau hasil jadi class yang dapat di compire dan terima hasilnya tanpa adanya mainclass,class tidak dapat berjalan/tidak dapat di compire
 
 ## Percobaan
 

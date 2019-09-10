@@ -8,40 +8,35 @@ Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
 
 ## Ringkasan Materi
 
-class adalah sebuah proyek yang tidak dapat di compire. 
-
-main class adalah objek atau hasil jadi class yang dapat di compire dan terima hasilnya tanpa adanya mainclass,class tidak dapat berjalan/tidak dapat di compire
+class adalah sebuah proyek yang tidak dapat di compire.
+main class adalah objek atau hasil jadi class yang dapat di compire dan terima hasilnya tanpa adanya mainclass,class tidak dapat berjalan/tidak dapat di compire.
 
 ## Percobaan
 
 ### Percobaan 1
 
-(Dengan adanya class,main class sebaik Primery Key dapat di panggil untuk mengcompire hasil yang lebih baik dari pada hanya tertuju pada class saja tanpa adanya main class. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
+Dengan adanya class,main class sebaik Primery Key dapat di panggil untuk mengcompire hasil yang lebih baik dari pada hanya tertuju pada class saja tanpa adanya main class. Jika ada rujukan ke file program, bisa dibuat linknya di sini.
 
 Screenshot Sepeda.java
 ![screenshot Sepeda.Java](img/Sepeda.png)<br>
 Screenshot Sepeda.java
 ![screenshot SepedaDemo.Java](img/SepedaDemo.png)
-
-Contoh link kode program : [ini contoh link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br>
-Contoh link kode program : [ini contoh link ke SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
+ link kode program : [ini link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br> link kode program : [ini link ke SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 
 ### Percobaan 2
 
-(Dengan adanya extand class pada main class,hasil yang di compire deri sebuah class dapat lebih jelas dan hasilnya lebih mendetail. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+Dengan adanya extand class pada main class,hasil yang di compire deri sebuah class dapat lebih jelas dan hasilnya lebih mendetail. Jika ada rujukan ke file program, bisa dibuat linknya di sini.
 
 
 Screenshot SepedaDemo.java Setelah Di tambah Extand Source Code SepedaGunung.java
 ![screenshot SepedaDemo.Java !!!](img/SepedaDemo2.png)<br>
 Screenshot SepedaGunung.java
 ![screenshot SepedaGunung.Java !!!](img/SepedaGunung.png)
-
-Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
+ link kode program : [ini link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
-(1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! <br>
+1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! <br>
     Jawab :<br>
     Kelas     — kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu.<br>
     Objek     — membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari                         modularitas dan struktur dalam sebuah program komputer berorientasi objek.<br>
@@ -69,22 +64,22 @@ Contoh link kode program : [ini contoh link ke SepedaGunung.java](../../src/1_Pe
 6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
 nol?<br>
    Jawab:<br>
-   karena class SepedaGunung adalah extandsi attribute yang di pakai sebagai penambahan source code pada SepedaDemo untuk menambahkan      hasil yang lebih mendetail.)
+   karena class SepedaGunung adalah extandsi attribute yang di pakai sebagai penambahan source code pada SepedaDemo untuk menambahkan      hasil yang lebih mendetail.
 
 ## Tugas
 
 Screenshot Kucing.java
 ![screenshot Kucing.java](img/Kucing.png)<br>
 Screenshot KucingBerjalan.java
-![contoh screenshot](img/KucingBerjalan.png)<br>
+! screenshot](img/KucingBerjalan.png)<br>
 Screenshot KucingBerjalan.java Setelah Di tambah Extand Source Code KucingLari.java
-![contoh screenshot](img/KucingBerjalan2.png)<br>
+! screenshot](img/KucingBerjalan2.png)<br>
 Screenshot KucingLari.java
-![contoh screenshot](img/KucingLari.png)
+! screenshot](img/KucingLari.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Kucing.java)<br>
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingBerjalan.java)<br>
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingLari.java)
+link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/Kucing.java)<br>
+link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingBerjalan.java)<br>
+link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingLari.java)
 
 ## Kesimpulan
 

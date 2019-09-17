@@ -1,4 +1,4 @@
-# Laporan Praktikum #3 - Pengantar Konsep PBO
+# Laporan Praktikum #3 - Enkapsulasi
 
 ## Kompetensi
 
@@ -60,9 +60,9 @@ Screenshot Motor.java
 Screenshot MotorDemo.java
 ![screenshot MotorDemo.Java](img/MotorDemo.png)
 
- link kode program : [ini link ke Motor.java](../../src/3_Enkapsulasi/Motor.java)
+ link kode program : [ini link ke Motor.java](../../src/3_Enkapsulasi/Motor1941723001Angga.java)
  
- link kode program : [ini link ke MotorDemo.java](../../src/3_Enkapsulasi/MotorDemo.java)
+ link kode program : [ini link ke MotorDemo.java](../../src/3_Enkapsulasi/MotorDemo1941723001Angga.java)
 
     Dari percobaan 1 - enkapsulasi, menurut anda, adakah yang janggal?
     Yaitu, kecepatan motor tiba-tiba saja berubah dari 0 ke 50. Lebih janggal lagi, posisi kontak motor
@@ -89,9 +89,9 @@ Screenshot MotorDemo.java
 ![screenshot MotorDemo.Java](img/MotorDemo1.png)
 
 
-link kode program : [ini link ke Motor.java](../../src/3_Enkapsulasi/Motor.java)
+link kode program : [ini link ke Motor.java](../../src/3_Enkapsulasi/Motor1941723001Angga.java)
  
-link kode program : [ini link ke MotorDemo.java](../../src/3_Enkapsulasi/MotorDemo.java)
+link kode program : [ini link ke MotorDemo.java](../../src/3_Enkapsulasi/MotorDemo1941723001Angga.java)
 
 ## Pertanyaan
 
@@ -126,9 +126,9 @@ Screenshot Anggota.java
 Screenshot KoperasiDemo.java
 ![screenshot KoperasiDemo.Java](img/KoperasiDemo.png)
 
-link kode program : [ini link ke Anggota.java](../../src/3_Enkapsulasi/Anggota.java)
+link kode program : [ini link ke Anggota.java](../../src/3_Enkapsulasi/Anggota1941723001Angga.java)
  
-link kode program : [ini link ke KoperasiDemo.java](../../src/3_Enkapsulasi/KoperasiDemo.java)
+link kode program : [ini link ke KoperasiDemo.java](../../src/3_Enkapsulasi/KoperasiDemo1941723001Angga.java)
 
 ## Percobaan 4  
 Konstruktor, Instansiasi
@@ -192,9 +192,9 @@ Screenshot EncapDemo.java
 Screenshot EncapTest.java
 ![screenshot EncapTest.Java](img/EncapTest.png)
 
-link kode program : [ini link ke EncapDemo.java](../../src/3_Enkapsulasi/EncapDemo.java)
+link kode program : [ini link ke EncapDemo.java](../../src/3_Enkapsulasi/EncapDemo1941723001Angga.java)
 
-link kode program : [ini link ke EncapTest.java](../../src/3_Enkapsulasi/EncapTest.java)
+link kode program : [ini link ke EncapTest.java](../../src/3_Enkapsulasi/EncapTest1941723001Angga.java)
 
     2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada
     saat ditampilkan ke layar nilainya 30, jelaskan mengapa.
@@ -241,9 +241,9 @@ Screenshot Koperasi.java
 Screenshot TestKoperasi.java
 ![screenshot TestKoperasi.Java](img/TestKoperasi.png)
 
-link kode program : [ini link ke Koperasi.java](../../src/3_Enkapsulasi/Koperasi.java)
+link kode program : [ini link ke Koperasi.java](../../src/3_Enkapsulasi/Koperasi1941723001Angga.java)
 
-link kode program : [ini link ke TestKoperasi.java](../../src/3_Enkapsulasi/TestKoperasi.java)
+link kode program : [ini link ke TestKoperasi.java](../../src/3_Enkapsulasi/TestKoperasi1941723001Angga.java)
 
     5. Modifikasi soal no. 4 agar nominal yang dapat diangsur minimal adalah 10% dari jumlah
     pinjaman saat ini. Jika mengangsur kurang dari itu, maka muncul peringatan “Maaf,

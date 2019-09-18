@@ -1,89 +1,126 @@
 # Laporan Praktikum #1 - Pengantar Konsep PBO
 
-## Kompetensi
+   ## Kompetensi
 
-Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
-1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
-2. Konsep dasar PBO
+      Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
+      1. Perbedaan paradigma berorientasi objek dengan paradigma struktural
+      2. Konsep dasar PBO
 
-## Ringkasan Materi
+   ## Ringkasan Materi
 
-class adalah sebuah proyek yang tidak dapat di compire.
-main class adalah objek atau hasil jadi class yang dapat di compire dan terima hasilnya tanpa adanya mainclass,class tidak dapat berjalan/tidak dapat di compire.
+      class adalah sebuah proyek yang tidak dapat di compire.
+      main class adalah objek atau hasil jadi class yang dapat di compire dan terima hasilnya tanpa adanya mainclass,class tidak dapat berjalan/tidak dapat di compire.
 
 ## Percobaan
 
 ### Percobaan 1
 
-Dengan adanya class,main class sebaik Primery Key dapat di panggil untuk mengcompire hasil yang lebih baik dari pada hanya tertuju pada class saja tanpa adanya main class. Jika ada rujukan ke file program, bisa dibuat linknya di sini.
+      Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, membuat object,
+      kemudian mengakses method didalam class tersebut.
+      1. Buka Netbeans, buat project SepedaDemo.
+      2. Buat class Sepeda. Klik kanan pada package sepedademo – New – Java Class.
+      3. Ketikkan kode class Sepeda dibawah ini.4. Kemudian pada class main, ketikkan kode berikut ini.
+      5. Cocokkan hasilnya:
 
 Screenshot Sepeda.java
-![screenshot Sepeda.Java](img/Sepeda.png)<br>
+![screenshot Sepeda.Java](img/Sepeda.png)
 Screenshot Sepeda.java
 ![screenshot SepedaDemo.Java](img/SepedaDemo.png)
- link kode program : [ini link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java)<br> link kode program : [ini link ke SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
+ link kode program : [ini link ke Sepeda.java](../../src/1_Pengantar_Konsep_PBO/Sepeda.java) link kode program : [ini link ke SepedaDemo.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo.java)
 
 ### Percobaan 2
 
-Dengan adanya extand class pada main class,hasil yang di compire deri sebuah class dapat lebih jelas dan hasilnya lebih mendetail. Jika ada rujukan ke file program, bisa dibuat linknya di sini.
+      Didalam percobaan ini, akan didemonstrasikan salah satu fitur yang paling penting dalam PBO, yaitu
+      inheritance. Disini kita akan membuat class SepedaGunung yang mana adalah turunan/warisan dari
+      class Sepeda. Pada dasarnya class SepedaGunung adalah sama dengan class Sepeda, hanya saja pada
+      sepeda gunung terdapat tipe suspensi. Untuk itu kita tidak perlu membuat class Sepeda Gunung dari
+      nol, tapi kita wariskan saja class Sepeda ke class SepedaGunung.
+      Penjelasan lebih detail tentang inheritance akan dibahas pada modul selanjutnya.
+      1. Masih pada project SepedaDemo. Buat class SepedaGunung.
+      2. Tambahkan kode extends Sepeda pada deklarasi class SepedaGunung. Kode extends ini
+      menandakan bahwa class SepedaGunung mewarisi class Sepeda.
+      3. Kemudian lengkapi kode SepedaGunung seperti berikut ini:
+      4. Kemudian pada class main, tambahkan kode berikut ini:5. Cocokkan hasilnya:
 
 
 Screenshot SepedaDemo.java Setelah Di tambah Extand Source Code SepedaGunung.java
-![screenshot SepedaDemo.Java !!!](img/SepedaDemo2.png)<br>
+![screenshot SepedaDemo.Java !!!](img/SepedaDemo2.png)
 Screenshot SepedaGunung.java
 ![screenshot SepedaGunung.Java !!!](img/SepedaGunung.png)
  link kode program : [ini link ke SepedaGunung.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung.java)
 
 ## Pertanyaan
 
-1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! <br>
-    Jawab :<br>
-    Kelas     — kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu.<br>
-    Objek     — membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari                         modularitas dan struktur dalam sebuah program komputer berorientasi objek.<br>
-    Abstraksi — Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti. 
+      1. Sebutkan dan jelaskan aspek-aspek yang ada pada pemrograman berorientasi objek! 
+      Jawab :
+      Kelas     
+      — kumpulan atas definisi data dan fungsi-fungsi dalam suatu unit untuk suatu tujuan tertentu.
+      Objek    
+       — membungkus data dan fungsi bersama menjadi suatu unit dalam sebuah program komputer; objek merupakan dasar dari                         modularitas dan struktur dalam sebuah program komputer berorientasi objek.
+      Abstraksi 
+      — Kemampuan sebuah program untuk melewati aspek informasi yang diproses olehnya, yaitu kemampuan untuk memfokus pada inti. 
     
-2. Apa yang dimaksud dengan object dan apa bedanya dengan class? <br>
-   Jawab :<br>
-   Objek adalah hasil dari suatu rancangan/class yang dapat di compire<br>
-   class adalah suatu rancangan untuk menghasilkan sebuah objek yang tidak dapat di compire
+      2. Apa yang dimaksud dengan object dan apa bedanya dengan class? 
+      Jawab :
+      Objek adalah hasil dari suatu rancangan/class yang dapat di compire
+      class adalah suatu rancangan untuk menghasilkan sebuah objek yang tidak dapat di compire
    
-3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
-   dengan pemrograman struktural! <br>
-   Jawab :<br>
-  —Meningkatkan produktivitas<br>
-   Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya yang menggunakan objek          tersebut (reusable).
+      3. Sebutkan salah satu kelebihan utama dari pemrograman berorientasi objek dibandingkan
+      dengan pemrograman struktural! 
+      Jawab :
+      — Meningkatkan produktivitas
+      Class dan Object pada PBO yang dibuat untuk suatu problem masih dapat dipakai lagi untuk problem lainnya yang menggunakan objek tersebut (reusable).
 
-4. Pada class Sepeda, terdapat state/atribut apa saja? <br>
-   Jawab :<br>
-   class,objek,attribute,atribute private,overloading methods
+      4. Pada class Sepeda, terdapat state/atribut apa saja? 
+      Jawab :
+      class,objek,attribute,atribute private,overloading methods
    
-5. Tambahkan atribut warna pada class Sepeda. <br>
-   Jawab :<br>
+      5. Tambahkan atribut warna pada class Sepeda. 
+      Jawab :
    
     
-6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
-nol?<br>
-   Jawab:<br>
-   karena class SepedaGunung adalah extandsi attribute yang di pakai sebagai penambahan source code pada SepedaDemo untuk menambahkan      hasil yang lebih mendetail.
+      6. Mengapa pada saat kita membuat class SepedaGunung, kita tidak perlu membuat class nya dari
+      nol?
+      Jawab:
+      karena class SepedaGunung adalah extandsi attribute yang di pakai sebagai penambahan source code pada SepedaDemo untuk menambahkan hasil yang lebih mendetail.
 
 ## Tugas
+      1. Buatlah program yang merupakan class dari objek yang ada dunia nyata sesuai dengan imajinasi
+      anda. Silahkan merujuk pada kode program praktikum yang sudah kita lakukan sebelumnya
+      untuk sintak-sintak nya.
 
 Screenshot Kucing.java
-![screenshot Kucing.java](img/Kucing.png)<br>
-Screenshot KucingBerjalan.java
-! screenshot](img/KucingBerjalan.png)<br>
-Screenshot KucingBerjalan.java Setelah Di tambah Extand Source Code KucingLari.java
-! screenshot](img/KucingBerjalan2.png)<br>
-Screenshot KucingLari.java
-! screenshot](img/KucingLari.png)
+![screenshot Kucing.java](img/Kucing.png)
 
-link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/Kucing.java)<br>
-link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingBerjalan.java)<br>
-link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingLari.java)
+Screenshot KucingBerjalan.java
+![screenshot](img/KucingBerjalan.png)
+
+Screenshot KucingBerjalan.java Setelah Di tambah Extand
+
+Source Code KucingLari.java
+![screenshot](img/KucingBerjalan2.png)
+
+Screenshot KucingLari.java
+![screenshot](img/KucingLari.png)
+
+-link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/Kucing.java)
+
+-link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingBerjalan.java)
+
+-link kode program : [ini link ke kode program](../../src/1_Pengantar_Konsep_PBO/KucingLari.java)
 
 ## Kesimpulan
 
-(Kesimpulan dari pratikum di atas adalah : class adalah sebuah rancang untuk memanggil sebuah main class yang telah di buat karena tanpa adanya class/sebuah rancangan maka mainclass/objek rancangan tidak bisa di panggil atau di jalankan,dengan menambahkan extand class kita dapat membuat sebuah hasil rancangan/objek menjadi lebih detail atau lebih sempurna hasilnya karena dengan extand class hasil dari objek yang di buat oleh class dapat lebih terperinci)
+      Dari percobaan diatas, kita telah mendemonstrasikan bagaimana paradigma pemrograman
+      berorientasi objek dan mengimplementasikannya kedalam program sederhana. Kita juga telah
+      mendemonstrasikan salah satu fitur paling penting dari PBO yaitu inheritance, yaitu dalam hal
+      membuat class SepedaGunung.
+      Kita ketahui bahwa SepedaGunung pada dasarnya adalah sama dengan Sepeda (memiliki gear,
+      memiliki kecepatan, dapat menambah kecepatan, dapat mengerem, pindah gigi, dsb) namun ada
+      fitur tambahan yaitu tipe suspensi. Maka kita tidak perlu membuat class SepedaGunung dari nol,
+      kita extends atau wariskan saja dari class Sepeda, kemudian kita tinggal tambahkan fitur yang
+      sebelumnya belum ada di class Sepeda. Inilah salah satu kelebihan PBO yang tidak ada di
+      pemrograman struktural.
 
 ## Pernyataan Diri
 

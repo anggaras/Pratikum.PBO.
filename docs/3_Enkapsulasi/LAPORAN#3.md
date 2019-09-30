@@ -98,13 +98,18 @@ link kode program : [ini link ke MotorDemo.java](../../src/3_Enkapsulasi/MotorDe
     1. Pada class TestMobil, saat kita menambah kecepatan untuk pertama kalinya, mengapa
     muncul peringatan “Kecepatan tidak bisa bertambah karena Mesin Off!”?
 
-    Jawab:karena di saat mesin dalam keadaan off maka kecepatan tidak akan bisa di tambahkan 
+    Jawab:Karena Mesin Dalam Keadaan OFF bukan pada Kondisi Mesin ON jadi Kecepatan Tidak Bisa bertambah Jika Mesin Dalam Keadaan Mati Karena Kecepatan bisa bertambah jika mesin dalam keadaan hidup saja 
 
     2. Mengapat atribut kecepatan dan kontakOn diset private?
 
-    Jawab:agar query yang berjalan tidak saling bertabrakan sehingga build dapat di jalankan dengan sempurna hingga succesbuild
+    Jawab:Karena atribut kecepatan merupakan atribut intansiasi sedangkan KontakOn merupakan atribut class
 
     3. Ubah class Motor sehingga kecepatan maksimalnya adalah 100!
+    Jawab:
+Screenshot Motor.java
+![screenshot Motor.Java](img/SetelahMenjadi100.png)
+
+link kode program : [ini link ke Motor.java](../../src/3_Enkapsulasi/Motor.java)
 
 ## Percobaan 3
 Getter dan Setter
@@ -162,26 +167,18 @@ Screenshot Anggota.java
             3. Konstruktor tidak boleh menggunakan modifier abstract, static, final, dan syncronized
 
     6. Apakah boleh konstruktor bertipe private?
-    Jawab: tidak boleh
+    Jawab: Di java kita dapat memiliki konstruktor dengan modifier private, protected, public or default
 
     7. Kapan menggunakan parameter dengan passsing parameter?
     Jawab: pengiriman parameter yang dilakukan dengan mengcopykan value dari actual parameter (dari pemanggil/caller) ke formal parameter (function).
 
     8. Apa perbedaan atribut class dan instansiasi atribut?
-    Jawab: Class merupakan suatu blueprint atau cetakan untuk menciptakan suatu instant dari object.
+    Jawab: Atribut class merupakan nilai yang dimiliki oleh class dan bukan nilai yang dimiliki oleh objek.
 
-    Sedangkan instansiasi atribut adalah merupakan nilai data yang terdapat pada suatu object yang berasal dari class.
+    Atribut Instansisasi merupakan yang dimiliki oleh satu objek dengan objek lain yang bernilai berbeda dan tidak sama.
 
     9. Apa perbedaan class method dan instansiasi method?
     Jawab: method class merupakan bagan atau badan pembetukan suatu objek sedangakan instansiasi method adalah isi dari suatu method class
-
-## Kesimpulan
-
-    Dari percobaan diatas, telah dipelajari kosep dari enkapsulasi, kontruktor, access modifier yang
-    terdiri dari 4 jenis yaitu public, protected, default dan private. Konsep atribut atau method class
-    yang ada di dalam blok code class dan konsep instansiasi atribut atau method. Cara penggunaan
-    getter dan setter beserta fungsi dari getter dan setter. Dan juga telah dipelajari atau memahami
-    notasi UML
 
 ## Tugas
     1. Cobalah program dibawah ini dan tuliskan hasil outputnya
@@ -198,10 +195,8 @@ link kode program : [ini link ke EncapTest.java](../../src/3_Enkapsulasi/EncapTe
 
     2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada
     saat ditampilkan ke layar nilainya 30, jelaskan mengapa.
-    Jawab :
 
     3. Ubah program diatas agar atribut age dapat diberi nilai  maksimal 30 dan minimal 18.
-    Jawab :
 
     4. Pada sebuah sistem informasi koperasi simpan pinjam, terdapat class Anggota yang memiliki
     atribut antara lain nomor KTP, nama, limit peminjaman, dan jumlah pinjaman. Anggota
@@ -249,13 +244,16 @@ link kode program : [ini link ke TestKoperasi.java](../../src/3_Enkapsulasi/Test
     pinjaman saat ini. Jika mengangsur kurang dari itu, maka muncul peringatan “Maaf,
     angsuran harus 10% dari jumlah pinjaman”.
 
-    Jawab:
-
     6. Modifikasi class TestKoperasi, agar jumlah pinjaman dan angsuran dapat menerima input
     dari console.
 
-    Jawab:
+## Kesimpulan
 
+    Dari percobaan diatas, telah dipelajari kosep dari enkapsulasi, kontruktor, access modifier yang
+    terdiri dari 4 jenis yaitu public, protected, default dan private. Konsep atribut atau method class
+    yang ada di dalam blok code class dan konsep instansiasi atribut atau method. Cara penggunaan
+    getter dan setter beserta fungsi dari getter dan setter. Dan juga telah dipelajari atau memahami
+    notasi UML
 
 ## Pernyataan Diri
 

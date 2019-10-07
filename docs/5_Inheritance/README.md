@@ -56,11 +56,11 @@ Screenshot ClasB.java
 Screenshot MainClass.java
 ![screenshot MainClass.Java](img/MainClass.png)
 
-link kode program : [ini link ke ClasA.java](../../src/5_Inheritance/ClasA1941723001Angga.java) 
+link kode program : [ini link ke ClasA.java](../../src/5_Inheritance/ClasA1941723001angga.java) 
 
-link kode program : [ini link ke ClasB.java](../../src/5_Inheritance/ClasB1941723001Angga.java)
+link kode program : [ini link ke ClasB.java](../../src/5_Inheritance/ClasB1941723001angga.java)
 
-link kode program : [ini link ke MainClass.java](../../src/5_Inheritance/MainClass1941723001Angga.java)
+link kode program : [ini link ke MainClass.java](../../src/5_Inheritance/MainClass1941723001angga.java)
 
 ### Pertanyaan
 
@@ -89,11 +89,11 @@ Screenshot MainClass2.java
 ![screenshot MainClass2.Java !!!](img/MainClass2.png)
 
 
-link kode program : [ini link ke KelasA.java](../../src/5_Inheritance/KelasA1941723001Angga21.java)
+link kode program : [ini link ke KelasA.java](../../src/5_Inheritance/KelasA1941723001angga21.java)
 
-link kode program : [ini link ke KelasB.java](../../src/5_Inheritance/KelasB1941723001Angga.java)
+link kode program : [ini link ke KelasB.java](../../src/5_Inheritance/KelasB1941723001angga.java)
 
-link kode program : [ini link ke MainClass2.java](../../src/5_Inheritance/MainClass21941723001Angga.java)
+link kode program : [ini link ke MainClass2.java](../../src/5_Inheritance/MainClass21941723001angga.java)
 
 
 ### Pertanyaan
@@ -122,11 +122,11 @@ Screenshot Tabung.java
 Screenshot MainClass3.java
 ![screenshot MainClass3.java](img/MainClass3.png)
 
--link kode program : [ini link ke Bangun.java](../../src/5_Inheritance/Bangun1941723001Angga.java)
+-link kode program : [ini link ke Bangun.java](../../src/5_Inheritance/Bangun1941723001angga.java)
 
--link kode program : [ini link ke Tabung.java](../../src/5_Inheritance/Tabung1941723001Angga.java)
+-link kode program : [ini link ke Tabung.java](../../src/5_Inheritance/Tabung1941723001angga.java)
 
--link kode program : [ini link ke MainClass3.java](../../src/5_Inheritance/MainClass31941723001Angga.java)
+-link kode program : [ini link ke MainClass3.java](../../src/5_Inheritance/MainClass31941723001angga.java)
 
 ## Pertanyaan
 
@@ -167,13 +167,13 @@ Screenshot ClassC.java
 Screenshot MainClass4.java
 ![screenshot](img/MainClass4.png)
 
--link kode program : [ini link ke ClassA.java](../../src/5_Inheritance/ClassA1941723001Angga.java)
+-link kode program : [ini link ke ClassA.java](../../src/5_Inheritance/ClassA1941723001angga.java)
 
--link kode program : [ini link ke ClassB.java](../../src/5_Inheritance/ClassB1941723001Angga.java)
+-link kode program : [ini link ke ClassB.java](../../src/5_Inheritance/ClassB1941723001angga.java)
 
--link kode program : [ini link ke ClassC.java](../../src/5_Inheritance/ClassC1941723001Angga.java)
+-link kode program : [ini link ke ClassC.java](../../src/5_Inheritance/ClassC1941723001angga.java)
 
--link kode program : [ini link ke MainClass4.java](../../src/5_Inheritance/MainClass41941723001Angga.java)
+-link kode program : [ini link ke MainClass4.java](../../src/5_Inheritance/MainClass41941723001angga.java)
 
 ### Pertanyaan
 
@@ -216,4 +216,4 @@ Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektua
 
 Ttd,
 
-***(Angga Rahmat Adriyadhi)***
+***(angga Rahmat Adriyadhi)***

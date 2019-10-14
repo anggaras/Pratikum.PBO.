@@ -1,4 +1,4 @@
-# Laporan Pratikum #5 - Inheritance
+# Laporan Pratikum #6 - Overloading Dan Overriding
 
 ## Kompetensi
     Setelah menempuh pokok bahasan ini, mahasiswa mampu :
@@ -137,7 +137,7 @@ link kode program : [ini link ke MainClassTugasOverloading.java](../../src/6_Ove
 ### Overriding
     Implementasikan class diagram dibawah ini dengan menggunakan teknik dynamic
     method dispatch :
-    
+
 Screenshot Manusia.java
 ![screenshot Manusia.Java](img/Manusia.png)
 
